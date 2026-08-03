@@ -1,6 +1,6 @@
 <div align="center">
 
-# KyuuKyuu (きゅうきゅう) 🪨
+# KyuuKyuuStone 🪨
 
 > **石头不卖萌，只是引力比较强。—— KyuuKyuuStone**
 > **The stone isn't being cute — its gravity is just stronger.**
