@@ -13,7 +13,7 @@
 
 **中文**
 
-吸吸石（KyuuKyuu）是一个独立全栈技术品牌。名字取自磁石——不用喊口号，靠自身引力把对的人、对的问题吸到同一张桌子上。
+KyuuKyuuStone 是一个独立全栈技术品牌。名字取自磁石——不用喊口号，靠自身引力把对的人、对的问题吸到同一张桌子上。
 
 这里长期打磨开源工具、底层框架和实战笔记，方向不限：后端、AI、图形、工具链——哪里是硬骨头就往哪里凿。
 
@@ -21,7 +21,7 @@
 
 **English**
 
-KyuuKyuu is an independent full-stack engineering brand. Named after the lodestone — the natural magnet — it pulls the right people and the right problems onto the same workbench, no slogans required.
+KyuuKyuuStone is an independent full-stack engineering brand. Named after the lodestone — the natural magnet — it pulls the right people and the right problems onto the same workbench, no slogans required.
 
 Long-term focus: open-source tools, low-level frameworks, and field notes from real builds. Backend, AI, graphics, toolchains — wherever the hard bones are.
 
