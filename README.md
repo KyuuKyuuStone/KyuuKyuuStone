@@ -1,6 +1,6 @@
-# KyuuKyuuStone
+# Built by [九川 (KyuuKyuuStone)](https://github.com/KyuuKyuuStone)
 
-**石头不卖萌，只是引力比较强。**
+**Jiuchuan (九川) / KyuuKyuuStone. AI tools and embedded, one person. TypeScript desktop + C on ESP32. All open source.**
 *The stone isn't being cute — its gravity is just stronger.*
 
 一个人在写 AI 工具和嵌入式。TypeScript 写 Windows 桌面软件，C 写 ESP32 上的掌机。都开源。
